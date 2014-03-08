@@ -23,9 +23,6 @@ Tell everyone it's happened:
 
     $ sh yes.sh
 
-## ChangeLog ##
-
-
 ## License ##
 
 I literally couldn't care less.
