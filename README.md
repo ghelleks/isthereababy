@@ -24,6 +24,10 @@ Tell everyone it's happened:
 ## ChangeLog ##
 
 
+## License ##
+
+I literally couldn't care less.
+
 ## Contact ##
 
 If you have questions or comments, please visit:
